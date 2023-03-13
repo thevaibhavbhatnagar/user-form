@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/thevaibhavbhatnagar/user-form.git/static/css/main.bc4c2987.css",
+    "main.js": "/thevaibhavbhatnagar/user-form.git/static/js/main.f0071bb6.js",
+    "index.html": "/thevaibhavbhatnagar/user-form.git/index.html",
+    "main.bc4c2987.css.map": "/thevaibhavbhatnagar/user-form.git/static/css/main.bc4c2987.css.map",
+    "main.f0071bb6.js.map": "/thevaibhavbhatnagar/user-form.git/static/js/main.f0071bb6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc4c2987.css",
+    "static/js/main.f0071bb6.js"
+  ]
+}
